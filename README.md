@@ -177,3 +177,137 @@ demuestran pero si lo piensan que porque no encuentran a alguien en todo el mund
 </html>
 
 ![image](https://github.com/user-attachments/assets/52a633b5-bcf6-44af-8833-ff22123b8db9)
+
+#Codigo 9
+
+<blockquote>
+    <!DOCTYPE html>
+    
+    <html>
+    
+    <body>
+    
+    <p>Here is a quote from WWF's website:</p>
+    
+    <blockquote cite="http://www.worldwildlife.org/who/index.html"&gt;
+    For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.
+    
+    </blockquote>
+    
+    </body>
+    
+    </html>
+
+  ![image](https://github.com/user-attachments/assets/41334e45-0268-439c-899c-22e9a28766bf)
+
+  #Codigo 10
+
+  <!DOCTYPE html>
+  
+<html>
+  
+<body>
+
+<p>Frases dichas por grande personas</p>
+
+<p>Pedro Infante<q>No hagas cosas buenas que parezcan malas</q></p>
+
+<p>Pedro Infante<q>Aprende a reírte de tus errores</q></p>
+
+<p>Juan Gabriel<q>Lo que se ve no se pregunta, amigo</q></p>
+
+<p>Luis Miguel<q>"Te necesito, más que nunca antes.</q></p>
+
+<p>Luis Miguel<q>La vida sin tu amor no es nada.</q></p>
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/d5f20bbe-fd57-43bf-84c5-1a14c80afce7)
+
+#Codigo 11
+
+<!DOCTYPE html>
+
+<html>
+  
+<body>
+
+<p>El <abbr title="Harry Potter">HP</abbr> fue hecho en 26 de junio de 1997.</p>
+
+<p>y hasta el momento a tenido más de 500 millones de copias vendidas en todo el mundo siendo asi una de las mejores obras de fantasia.</p>
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/b215e819-f3ba-4a11-85e8-06f7c26a03a5)
+
+#Codigo 12
+
+<!DOCTYPE html>
+
+<html>
+  
+<body>
+
+<p>HTML define la información de contacto del autor/propietario de un documento o artículo.</p>
+
+<address>
+  
+E.M.Dylan<br>
+
+MusicXD.com<br>
+
+Cbtis 128, Ciudad Juarez<br>
+
+México
+
+</address>
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/8322dd99-050b-4281-825d-6ba5aad46ec1)
+
+#Codigo 13
+
+<!DOCTYPE html>
+
+<html>
+  
+<body>
+
+<p>Poema / que dure</p>
+
+<p>Que dure lo que tenga que durar. Que dure meses, días o años, que dure  una vida entera, que dure la eternidad que dure un segundo, que dure un susurro pero que sea contigo.</p>
+
+<img src="Luna" width="500" height="277" alt="Noche estrellada">
+
+<p><cite>El poema</cite> de Dylan Aaron Elicserio Martínez</p>
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/2d13a0ca-2230-4fdb-a78b-47bcce93d5d6)
+
+#Codigo 14
+
+<!DOCTYPE html>
+
+<html>
+  
+<body>
+
+<p>Dylan A.E.M:</p>
+
+<bdo dir="D.A.E.M">Si la luna es bonita, mas bonito el sol pero una sonrisa como la tuya no tiene comparacion, por que desde mil kilometros me robaste el corazon.</bdo>
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/c88fae53-25e2-44e7-b662-5c7741620a7d)
